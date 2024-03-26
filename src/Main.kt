@@ -14,6 +14,7 @@ data class DoubleNode<T>(
 
 }
 
+
 fun main(){
     val node1 = Node( 1)
     val node2 = Node(2)
